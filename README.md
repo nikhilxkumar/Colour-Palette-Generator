@@ -1,1 +1,2 @@
-# Colour-Palette-Generator
+# Colour-palette-Generator
+Explaining what I do 
